@@ -1,0 +1,10 @@
+name: GoJobGoBed
+main: com.example.gojobgobed.paper.GoJobGoBedPlugin
+version: 1.0.0
+api-version: 1.19
+author: ExistenceISMemeOmochi
+commands:
+  gojob:
+    description: 村人を職業ブロックに導く
+  gobed:
+    description: 村人をベッドに導く

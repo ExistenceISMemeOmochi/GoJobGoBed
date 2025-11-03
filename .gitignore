@@ -1,0 +1,10 @@
+# Build files
+.gradle/
+build/
+*/build/
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
